@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "CFC",
+        "#A#"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:logs"
+        },
+        "C": {
+            "item": "minecraft:cobblestone"
+        },
+        "F": {
+            "item": "minecraft:furnace"
+        },
+        "A": {
+            "item": "minecraft:campfire"
+        }
+    },
+    "result": {
+        "item": "minecraft:smoker",
+        "count": 1
+    }
+}
