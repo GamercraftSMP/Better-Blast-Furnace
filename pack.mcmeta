@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"description": "Reduces time needed to smelt items",
-		"pack_format": 10
+		"pack_format": 12,
+		"description": [{"text":"Updated to ","color":"gray"},{"text":"Java Edition","color":"white"},{"text":" 1.19.4\n","color":"gray"},{"text":"Authors: ","color":"gold"},{"text":"Guitarleader","color":"red"}]
 	}
 }
