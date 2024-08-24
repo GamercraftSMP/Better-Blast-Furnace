@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 12,
-		"description": [{"text":"Updated to ","color":"gray"},{"text":"Java Edition","color":"white"},{"text":" 1.19.4\n","color":"gray"},{"text":"Authors: ","color":"gold"},{"text":"Guitarleader","color":"red"}]
+		"pack_format": 48,
+		"description": [{"text":"Updated to ","color":"gray"},{"text":"Java Edition","color":"white"},{"text":" 1.21.1\n","color":"gray"},{"text":"Authors: ","color":"gold"},{"text":"Guitarleader","color":"red"}]
 	}
 }
