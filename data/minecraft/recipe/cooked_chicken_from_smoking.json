@@ -1,8 +1,6 @@
 {
   "type": "minecraft:smoking",
-  "ingredient": {
-    "item": "minecraft:chicken"
-  },
+  "ingredient": "minecraft:chicken",
   "result": {
     "id": "minecraft:cooked_chicken"
   },

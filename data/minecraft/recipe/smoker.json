@@ -6,18 +6,10 @@
         "#A#"
     ],
     "key": {
-        "#": {
-            "tag": "minecraft:logs"
-        },
-        "C": {
-            "item": "minecraft:cobblestone"
-        },
-        "F": {
-            "item": "minecraft:furnace"
-        },
-        "A": {
-            "item": "minecraft:campfire"
-        }
+        "#": "#minecraft:logs",
+        "C": "minecraft:cobblestone",
+        "F": "minecraft:furnace",
+        "A": "minecraft:campfire"
     },
     "result": {
         "id": "minecraft:smoker",

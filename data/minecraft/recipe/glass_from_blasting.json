@@ -1,8 +1,6 @@
 {
   "type": "minecraft:blasting",
-  "ingredient": {
-    "tag": "minecraft:smelts_to_glass"
-  },
+  "ingredient": "#smelts_to_glass",
   "category": "blocks",
   "result": {
     "id": "minecraft:glass"

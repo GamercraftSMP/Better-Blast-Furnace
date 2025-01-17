@@ -1,8 +1,6 @@
 {
   "type": "minecraft:smoking",
-  "ingredient": {
-    "item": "minecraft:cod"
-  },
+  "ingredient": "minecraft:cod",
   "result": {
     "id": "minecraft:cooked_cod"
   },

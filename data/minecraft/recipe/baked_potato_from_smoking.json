@@ -1,8 +1,6 @@
 {
   "type": "minecraft:smoking",
-  "ingredient": {
-    "item": "minecraft:potato"
-  },
+  "ingredient": "minecraft:potato",
   "result": {
     "id": "minecraft:baked_potato"
   },

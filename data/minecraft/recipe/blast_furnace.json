@@ -7,18 +7,10 @@
         "SLS"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:iron_block"
-        },
-        "F": {
-            "item": "minecraft:furnace"
-        },
-        "S": {
-            "item": "minecraft:smooth_stone"
-        },
-        "L": {
-            "item": "minecraft:lava_bucket"
-        }
+        "#": "minecraft:iron_block",
+        "F": "minecraft:furnace",
+        "S": "minecraft:smooth_stone",
+        "L": "minecraft:lava_bucket"
     },
     "result": {
         "id": "minecraft:blast_furnace",

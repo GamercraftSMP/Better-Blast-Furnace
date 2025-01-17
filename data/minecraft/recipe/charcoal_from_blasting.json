@@ -1,8 +1,6 @@
 {
   "type": "minecraft:blasting",
-  "ingredient": {
-    "tag": "minecraft:logs"
-  },
+  "ingredient": "#minecraft:logs_that_burn",
   "result": {
     "id": "minecraft:charcoal"
   },
